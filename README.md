@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @alineejati
 
 <!---
 alineejati/alineejati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
